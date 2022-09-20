@@ -60,3 +60,4 @@ Upgrading to new UI and adding new payroll's calculating logic.
 # Contact
 - **Phone number**: (+84) 382702841
 - **Mail**: nnt09021998.work@gmail.com
+- **Linkedin**: www.linkedin.com/in/nnt98
