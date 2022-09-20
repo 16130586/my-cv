@@ -21,7 +21,7 @@ a place for selling products to sellers.
 - **Responsibilities**:
 I participated in designing database models, application's logic flow and implementing full flow of placing an order, billing, payment.
 - **Tech stack**:
-.Net 6, Rest API, EF Core, MartenDB, PostgresDB, ElasticSearch, Kafka, Redis.
+.Net 6, Rest APIs, EF Core, MartenDB, PostgresDB, ElasticSearch, Kafka, Redis.
 
 ## FPT Telecom
 *04/2019– 04/2021*   
@@ -37,7 +37,7 @@ Collaborating with BA and teammates to develope URD, implementing (both
 backend and frontend) bases on requirements from the stakeholders
 Implementing additional synchronized data-sources for databases.
 - **Tech stack**: 
-.Net Core 3, .Net Core MVC, Rest API, EF Core, Dapper, OracleDB, Kafka, Redis, JQuery, Bootstrap, HTML, SCSS, KendoUI.
+.Net Core 3, .Net Core MVC, Rest APIs, EF Core, Dapper, OracleDB, Kafka, Redis, JQuery, Bootstrap, HTML, SCSS, KendoUI.
 
 ### API Aggregation Gateway
 **Project description**: An API service which serves as an API gateway for other services and client side applications.
@@ -46,7 +46,7 @@ Implementing additional synchronized data-sources for databases.
 Compositing multiple requests into 1 request for reducing chattiness between the client and the services.
 Aggregating requests' responses into 1 then returns it to the client.
 - **Tech stack**: 
-.Net Core 2.1, .Net Core API, Rest API, EF Core, Dapper, Redis.
+.Net Core 2.1, .Net Core API, Rest APIs, EF Core, Dapper, Redis.
 
 ### Payroll Application
 **Project description**: Migrating an application from ASP .NET 4 to .Net Core 2.1
@@ -55,7 +55,7 @@ Aggregating requests' responses into 1 then returns it to the client.
 Forming fully project’s structure, migrateing the old concepts to the new concepts.
 Upgrading to new UI and adding new payroll's calculating logic.
 - **Tech stack**:
-.Net Core 2.1, .Net Core API, Rest API, Dapper, Redis, OracleDB, SQL Server, JQuery, Bootstrap, HTML, SCSS, KendoUI.
+.Net Core 2.1, .Net Core API, Rest APIs, Dapper, Redis, OracleDB, SQL Server, JQuery, Bootstrap, HTML, SCSS, KendoUI.
 
 # Contact
 - **Phone number**: (+84) 382702841
