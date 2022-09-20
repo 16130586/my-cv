@@ -44,7 +44,7 @@ Implementing additional synchronized data-sources for databases.
 - **Team size**: 3
 - **Responsibilities**:
 Compositing multiple requests into 1 request for reducing chattiness between the client and the services.
-Aggregateing requests' responses into 1 then returns it to the client.
+Aggregating requests' responses into 1 then returns it to the client.
 - **Tech stack**: 
 .Net Core 2.1, .Net Core API, Rest API, EF Core, Dapper, Redis.
 
