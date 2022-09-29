@@ -52,7 +52,7 @@ Aggregating requests' responses into 1 then returns it to the client.
 **Project description**: Migrating an application from ASP .NET 4 to .Net Core 2.1
 - **Team size**: 3
 - **Responsibilities**:
-Forming fully project’s structure, migrateing the old concepts to the new concepts.
+Forming fully project’s structure, migrating the old concepts to the new concepts.
 Upgrading to new UI and adding new payroll's calculating logic.
 - **Tech stack**:
 .Net Core 2.1, .Net Core API, Rest APIs, Dapper, Redis, OracleDB, SQL Server, JQuery, Bootstrap, HTML, SCSS, KendoUI.
