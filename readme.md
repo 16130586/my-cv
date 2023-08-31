@@ -1,6 +1,6 @@
 # Nguyễn Ngọc Thật
 
-I am a developer with almost 4 years of experience in developing web application with 
+I am a developer with 4 years of experience in developing web application with 
 .Net Core/ C# technologies (which included experience in Front-End web development).
 Solid knowledge on OOP programming, analysis and design.
 Strong understand about design patterns and it's implementation.
