@@ -8,11 +8,20 @@ Strong understand about modeling database and optimization.
 Finally, I am eager to learn and develope myself.
 
 # Experiences
+## Joblogic
+*12/2022-NOW*   
+
+
+**Project description**: Developing Joblogic's major project, which aims to conquers the field service management in UK and in US in near future. 
+- **Team size**: 6
+- **Responsibilities**:
+I was a member of a squad team and was in charge of implementing features on the back-end. In addition, I assisted other coworkers in troubleshooting web-application or mobile-application problems. On a daily basis, I worked with BA, QC, and the Squad leader to clarify and implement features.
+- **Tech stack**:
+  .Net 6, Rest APIS, EF Core, Redis, Azure
 
 ## MWG (Mobile World Investment Corporation)
-
 ###  E-commerce System
-*11/2021 - NOW*   
+*11/2021 - 12/2022*   
    
 **Project description**: Developing a new e-commerce system(client's website, seller's center, admin's center). MWG’s new project is
 targeted to hit hard on young people, who has interest in online shopping. It also provides
