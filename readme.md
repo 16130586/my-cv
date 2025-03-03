@@ -24,7 +24,7 @@ I was a member of a squad team and was responsible for implementing back-end fea
   - Integrated new payment methods (Klarna, Bacs Direct Debit) with Stripe
   - Enhanced tracking for mobile devices and vehicles, including route logging based on velocity and GPS data   
 - **Tech stack**:
-  .Net 6, Rest APIs, EF Core, Redis, Azure
+  .Net 6, Rest APIs, EF Core, Redis, Azure Cloud Services
 
 ## MWG (Mobile World Investment Corporation)
 ###  E-commerce System
