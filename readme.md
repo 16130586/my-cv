@@ -1,22 +1,35 @@
 # Nguyễn Ngọc Thật
 
-I am a developer with 5 years of experience in web application development using .NET Core and C# technologies, including front-end development. I have solid knowledge of OOP programming, analysis, and design, with a strong understanding of design patterns and their implementation. I am also experienced in database modeling and optimization. Finally, I am eager to learn and develop myself further.
+I am a developer with 5 years of experience in web application development using .NET Core and C# technologies, including front-end development. I have solid knowledge of OOP programming, analysis, and design, with a good understanding of design patterns and their implementation. I am also experienced in database modeling and optimization. Finally, I am eager to learn and develop myself further.
 
 # Experiences
+
+## Topicus Vietnam
+*09/2024 - NOW*
+
+**Project description**: Developing and maintaining Matrix Online, a customer-specific banking application based on FiveDegrees' cloud-native core banking, which is widely used in Europe (The Netherlands, The UK, Singapore, Hong Kong).
+- **Team size**: 6
+- **Responsibilities**: Worked on both the front-end and back-end for new minor features and bug fixes.
 ## Joblogic
-*12/2022-NOW*   
+*10/2022-09/2024*   
 
 
-**Project description**: Developing Joblogic's major project, aimed at dominating the field service management market in the UK and the US in the near future.
+**Project description**: Developing Joblogic's major project, aimed at dominating the field service management market in the UK.
+Joblogic is a leading provider of field service management software, offering a scalable solution for every business: field service, job, mobile workforce, customer relationship magements.
 - **Team size**: 6
 - **Responsibilities**:
-I was a member of a squad team and was in charge of implementing features on the back-end. In addition, I assisted other coworkers in troubleshooting web-application or mobile-application problems. On a daily basis, I worked with BA, QC, and the Squad leader to clarify and implement features.
+I was a member of a squad team and was responsible for implementing back-end features. Additionally, I assisted colleagues with troubleshooting issues related to web and mobile applications. On a daily basis, I collaborated with BA, QC, and the Squad leader to clarify and implement features.
+- Developed and maintained a multi-tenancy system based on microservices architecture:
+  - Implemented business logic primarily on Azure Cloud Services, including Web App Services, Functions, Redis Cache, Service Bus, and SQL Database
+  - Contributed to improving unit test coverage using Moq
+  - Integrated new payment methods (Klarna, Bacs Direct Debit) with Stripe
+  - Enhanced tracking for mobile devices and vehicles, including route logging based on velocity and GPS data   
 - **Tech stack**:
-  .Net 6, Rest APIS, EF Core, Redis, Azure
+  .Net 6, Rest APIs, EF Core, Redis, Azure
 
 ## MWG (Mobile World Investment Corporation)
 ###  E-commerce System
-*11/2021 - 12/2022*   
+*10/2021 - 09/2022*   
    
 **Project description**: Developed a new e-commerce system (client's website, seller's center, admin's center). The project targeted young people interested in online shopping and provided a platform for sellers to list products.
 - **Team size**: 50+
@@ -26,7 +39,7 @@ I participated in designing database models, application's logic flow and implem
 .Net 6, Rest APIs, EF Core, MartenDB, PostgresDB, ElasticSearch, Kafka, Redis.
 
 ## FPT Telecom
-*04/2019– 04/2021*   
+*03/2019– 04/2021*   
    
 ### Seller Center
 
