@@ -7,7 +7,7 @@ I am a developer with 5 years of experience in web application development using
 ## Topicus Vietnam
 *09/2024 - NOW*
 
-**Project description**: Developing and maintaining Matrix Online, a customer-specific banking application based on FiveDegrees' cloud-native core banking, which is widely used in Europe (The Netherlands, The UK, Singapore, Hong Kong).
+**Project description**: Developing and maintaining a Matrix Online's version, a customer-specific banking application based on FiveDegrees' cloud-native core banking, which is widely used in Europe (The Netherlands, The UK, Singapore, Hong Kong).
 - **Team size**: 6
 - **Responsibilities**: Worked on both the front-end and back-end for new minor features and bug fixes.
 ## Joblogic
