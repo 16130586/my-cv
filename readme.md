@@ -18,12 +18,11 @@ I am a developer with 5 years of experience in web application development using
 Joblogic is a leading provider of field service management software, offering a scalable solution for every business: field service, job, mobile workforce, customer relationship magements.
 - **Team size**: 6
 - **Responsibilities**:
-I was a member of a squad team and was responsible for implementing back-end features. Additionally, I assisted colleagues with troubleshooting issues related to web and mobile applications. On a daily basis, I collaborated with BA, QC, and the Squad leader to clarify and implement features.
-  - Developed and maintained a multi-tenancy system based on microservices architecture:
-    - Implemented business logic primarily on Azure Cloud Services, including Web App Services, Functions, Redis Cache, Service Bus, and SQL Database
-    - Contributed to improving unit test coverage using Moq
-    - Integrated new payment methods (Klarna, Bacs Direct Debit) with Stripe
-    - Enhanced tracking for mobile devices and vehicles, including route logging based on velocity and GPS data   
+I was a member of a squad team and was responsible for implementing back-end features. Additionally, I assisted colleagues with troubleshooting issues related to web and mobile applications. On a daily basis, I collaborated with BA, QC, and Squad leader to clarify and implement features. Developed and maintained a multi-tenancy system based on microservices architecture
+  - Implemented business logic primarily on Azure Cloud Services, including Web App Services, Functions, Redis Cache, Service Bus, and SQL Database
+  - Contributed to improving unit test coverage using Moq
+  - Integrated new payment methods (Klarna, Bacs Direct Debit) with Stripe
+  - Enhanced tracking for mobile devices and vehicles, including route logging based on velocity and GPS data   
 - **Tech stack**:
   .Net 6, Rest APIs, EF Core, Redis, Azure
 
